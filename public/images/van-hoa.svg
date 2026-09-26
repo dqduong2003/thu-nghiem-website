@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#fff5dc"/>
+  <!-- Nón lá -->
+  <path d="M200 40 L60 170 Q200 200 340 170 Z" fill="#f0d9a0" stroke="#b8893a" stroke-width="4" stroke-linejoin="round"/>
+  <g stroke="#b8893a" stroke-width="2" fill="none">
+    <path d="M200 40 Q160 150 116 184"/><path d="M200 40 Q180 155 158 190"/>
+    <path d="M200 40 V194"/>
+    <path d="M200 40 Q220 155 242 190"/><path d="M200 40 Q240 150 284 184"/>
+    <path d="M118 128 Q200 150 282 128"/><path d="M90 152 Q200 180 310 152"/>
+  </g>
+  <path d="M150 178 Q145 215 170 225" stroke="#da251d" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M250 178 Q255 215 230 225" stroke="#da251d" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Hoa sen -->
+  <g transform="translate(340,215)" fill="#f7b3c2" stroke="#d9728c" stroke-width="2">
+    <path d="M0 0 Q-16 -20 0 -40 Q16 -20 0 0Z"/>
+    <path d="M0 0 Q-34 -6 -32 -32 Q-8 -24 0 0Z"/>
+    <path d="M0 0 Q34 -6 32 -32 Q8 -24 0 0Z"/>
+  </g>
+</svg>

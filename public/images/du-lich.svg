@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe9a8"/><stop offset="1" stop-color="#fff5dc"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="260" fill="url(#sky)"/>
+  <circle cx="310" cy="70" r="32" fill="#ffcd00"/>
+  <!-- Núi đá vôi -->
+  <path d="M40 160 L70 90 L95 120 L120 70 L150 160 Z" fill="#7d9c8a"/>
+  <path d="M120 160 L165 100 L190 130 L215 85 L250 160 Z" fill="#5f8672"/>
+  <path d="M230 160 L270 110 L300 140 L330 95 L365 160 Z" fill="#7d9c8a"/>
+  <!-- Biển -->
+  <rect y="158" width="400" height="102" fill="#4aa3b5"/>
+  <g stroke="#8fd0dc" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M30 185 q15 -8 30 0 t30 0"/><path d="M200 200 q15 -8 30 0 t30 0"/>
+    <path d="M80 225 q15 -8 30 0 t30 0"/><path d="M290 232 q15 -8 30 0 t30 0"/>
+  </g>
+  <!-- Thuyền -->
+  <path d="M150 196 H230 L218 214 H162 Z" fill="#8a5a2b"/>
+  <line x1="190" y1="196" x2="190" y2="150" stroke="#8a5a2b" stroke-width="4"/>
+  <path d="M194 152 L226 192 H194 Z" fill="#da251d"/>
+  <path d="M186 158 L164 192 H186 Z" fill="#fff"/>
+</svg>

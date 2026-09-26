@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#fff5dc"/>
+  <!-- Trống đồng -->
+  <path d="M110 80 H290 Q300 80 296 92 L270 200 Q268 208 258 208 H142 Q132 208 130 200 L104 92 Q100 80 110 80 Z" fill="#c98a2b" stroke="#8a5a2b" stroke-width="4"/>
+  <ellipse cx="200" cy="80" rx="90" ry="14" fill="#e0a640" stroke="#8a5a2b" stroke-width="4"/>
+  <circle cx="200" cy="80" r="34" fill="none" stroke="#8a5a2b" stroke-width="3"/>
+  <polygon points="200,54 206,72 226,72 210,84 216,102 200,91 184,102 190,84 174,72 194,72" fill="#8a5a2b" transform="translate(0,-2) scale(1) " opacity="0"/>
+  <g stroke="#8a5a2b" stroke-width="3" fill="none">
+    <circle cx="200" cy="80" r="16"/>
+    <line x1="200" y1="64" x2="200" y2="96"/><line x1="184" y1="80" x2="216" y2="80"/>
+    <line x1="188.7" y1="68.7" x2="211.3" y2="91.3"/><line x1="211.3" y1="68.7" x2="188.7" y2="91.3"/>
+    <line x1="120" y1="130" x2="280" y2="130"/>
+    <line x1="128" y1="165" x2="272" y2="165"/>
+  </g>
+  <g fill="#8a5a2b">
+    <circle cx="150" cy="148" r="5"/><circle cx="175" cy="148" r="5"/><circle cx="200" cy="148" r="5"/><circle cx="225" cy="148" r="5"/><circle cx="250" cy="148" r="5"/>
+    <circle cx="160" cy="186" r="5"/><circle cx="200" cy="186" r="5"/><circle cx="240" cy="186" r="5"/>
+  </g>
+</svg>

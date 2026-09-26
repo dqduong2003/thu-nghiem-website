@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#fff5dc"/>
+  <!-- Hơi nóng -->
+  <g stroke="#c9b58a" stroke-width="4" fill="none" stroke-linecap="round">
+    <path d="M160 90 Q145 70 160 50 Q175 30 160 15"/>
+    <path d="M200 90 Q185 70 200 50 Q215 30 200 15"/>
+    <path d="M240 90 Q225 70 240 50 Q255 30 240 15"/>
+  </g>
+  <!-- Tô phở -->
+  <path d="M70 120 H330 Q325 210 250 225 H150 Q75 210 70 120 Z" fill="#fff" stroke="#da251d" stroke-width="5"/>
+  <ellipse cx="200" cy="120" rx="130" ry="18" fill="#f3d9a4" stroke="#da251d" stroke-width="5"/>
+  <g stroke="#fff" stroke-width="3" fill="none" opacity="0.9">
+    <path d="M110 120 Q140 130 170 118"/><path d="M180 122 Q210 132 240 118"/><path d="M230 124 Q260 130 285 120"/>
+  </g>
+  <!-- Thịt, hành, ớt -->
+  <ellipse cx="160" cy="116" rx="26" ry="8" fill="#b5533c"/>
+  <ellipse cx="215" cy="114" rx="24" ry="7" fill="#c9694f"/>
+  <g fill="#3f9b4f"><circle cx="250" cy="112" r="6"/><circle cx="130" cy="112" r="6"/><circle cx="195" cy="126" r="5"/></g>
+  <circle cx="270" cy="124" r="5" fill="#da251d"/>
+  <!-- Đũa -->
+  <line x1="290" y1="60" x2="230" y2="128" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+  <line x1="312" y1="72" x2="250" y2="132" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+</svg>
