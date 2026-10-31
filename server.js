@@ -17,7 +17,9 @@ const MIME = {
 
 const server = http.createServer((req, res) => {
   const urlPath = decodeURIComponent(req.url.split('?')[0]);
-  const relPath = urlPath === '/' ? '/index.html' : urlPath;
+  let relPath = urlPath === '/' ? '/index.html' : urlPath;
+  // Cho phép đường dẫn gọn, ví dụ /privacy -> /privacy.html
+  if (!path.extname(relPath)) relPath += '.html';
   const filePath = path.join(PUBLIC_DIR, path.normalize(relPath));
 
   // Chặn truy cập ra ngoài thư mục public
